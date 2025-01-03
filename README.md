@@ -18,6 +18,12 @@ This script parses Saleae Logic 2 output files (.csv) to process data packets by
 
 -Copy the script you want here
 
+# Running the script
+
+- logic2_parse_data_packets.vbs
+- ![image](https://github.com/user-attachments/assets/10631cb5-60ab-4069-ba3b-ab6c0a5628c4)
+
+
 
   
   
