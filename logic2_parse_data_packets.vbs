@@ -12,7 +12,7 @@ Sub InsertBlankRowsBasedOnTimeDifference()
     
     ' Settings
     Set ws = ThisWorkbook.Sheets(1) ' The sheet containing your data
-    threshold = 0.018    ' The specified time difference
+    threshold = 0.005    ' The specified time difference 
     lastRow = ws.Cells(ws.Rows.Count, "C").End(xlUp).Row ' Last filled row in column C
 
     ' Adding blank rows by checking in reverse order
