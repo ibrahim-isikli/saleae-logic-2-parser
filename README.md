@@ -11,15 +11,16 @@ This script parses Saleae Logic 2 output files (.csv) to process data packets by
 - The .csv file will look like this:
   ![image](https://github.com/user-attachments/assets/868b117e-bd9b-47e0-a26b-f5d70e095efa)
 
-  
+# Running the exe
+To access the file with exe extension, please:
+
+# Running the script 
+
 - Save the file with .csv extension as .xlsm extension.
 - Go to developer tab in excel. Then click on the Visual Basic section and create a module.
   ![image](https://github.com/user-attachments/assets/973a3e29-8001-4023-adc7-adfbaf51ecc0)
 
 -Copy the script you want here
-
-# Running the script
-
 - logic2_parse_data_packets.vbs
 - ![image](https://github.com/user-attachments/assets/10631cb5-60ab-4069-ba3b-ab6c0a5628c4)
 
