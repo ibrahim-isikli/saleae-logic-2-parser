@@ -4,8 +4,8 @@ This script parses Saleae Logic 2 output files (.csv) to process data packets by
 # Prerequisites
 
 - Saleae Logic 2 output file .csv :
--
-- ![single_analyzer_export](https://github.com/user-attachments/assets/18965817-b1fc-40b8-8e0f-0386883cf837)
+
+ ![single_analyzer_export](https://github.com/user-attachments/assets/18965817-b1fc-40b8-8e0f-0386883cf837)
 
 - The .csv file will look like this:
   
