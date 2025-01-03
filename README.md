@@ -25,6 +25,8 @@ This script parses Saleae Logic 2 output files (.csv) to process data packets by
 
 - If you want to sort one under the other logic2_parse_data_packets.vbs then logic2_group_packages_in_rows.vbs
 You can use the module.
+![image](https://github.com/user-attachments/assets/ea810a8e-62ea-4774-8c3a-03c55c930686)
+
 
 
 
