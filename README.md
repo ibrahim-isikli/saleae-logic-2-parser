@@ -16,6 +16,8 @@ This script parses Saleae Logic 2 output files (.csv) to process data packets by
 - Go to developer tab in excel. Then click on the Visual Basic section and create a module.
   ![image](https://github.com/user-attachments/assets/973a3e29-8001-4023-adc7-adfbaf51ecc0)
 
+-Copy the script you want here
+
 
   
   
